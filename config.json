@@ -1,0 +1,22 @@
+{
+  "camera_number": 1,
+  "output_window_length": 900,
+  "output_window_height": 900,
+  "maximum_hsv_limit": 255,
+  "hsv_window_name": "HSV Calibration Output",
+  "background_sub_window_name": "Background Subtraction Output",
+  "combined_window_name": "Combined Filter Output",
+  "background_learning_rate": 0.01,
+  "hsv_window_length": 300,
+  "hsv_window_height": 800,
+  "frames_to_track": 3,
+  "convex_hull_window_name": "Feature Extracted Output",
+  "number_of_white_keys": 45,
+  "row_margin": 10,
+  "number_of_rows": 3,
+  "piano_notes_file_name": "Notes.file",
+  "piano_circle_radius": 5,
+  "finger_tip_circle_radius": 15,
+  "finger_tip_circle_thickness": 10,
+  "line_type": 8
+}
