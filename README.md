@@ -13,14 +13,14 @@ To run/edit this project, you would need:
 
 ## Installation
 
-####Installing Cinder + VS
+#### Installing Cinder + VS
 1) Install Visual Studio 2015 from [here](https://my.visualstudio.com/Downloads?q=visual%20studio%202015&wt.mc_id=o%7Emsft%7Evscom%7Eolder-downloads)
 2) Install Cinder [here](https://libcinder.org/download).
 3) After downloading the .zip file from Cinder, extract the folder to a convenient location (we'll call the extracted folder ~Cinder throughout this installation guide). 
 4) Build the ~Cinder folder using an IDE 
 5) Create a folder named "my-projects" inside the ~Cinder folder. Clone this repo in the my-projects folder.
 
-####Installing OpenCV
+#### Installing OpenCV
 1) Follow the installation instructions for OpenCV from [here](https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html). You must build static library files.
 2) To build static library files, set the "BUILD_SHARED_LIBS" option in CMakeGUI to false.
 3) In the project CMake file, add your OpenCV installation path to line Number 28, after "OPENCV_DIR".
