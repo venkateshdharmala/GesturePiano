@@ -1,6 +1,6 @@
-# CS 126 Final Project: Air Piano
+# Gesture Piano
 ## Overview
-Air Piano enables users to play the piano on the computer using hand gestures. Users can press a key by simply bending their finger - just like playing a normal piano! 
+Gesture Piano enables users to play the piano on the computer using hand gestures. Users can press a key by simply bending their finger - just like playing a normal piano! 
 
 ## Build Requirements:
 To run/edit this project, you would need:
